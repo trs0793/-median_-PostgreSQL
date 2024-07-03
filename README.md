@@ -1,1 +1,1 @@
-# daily_revenue_PostgreSQL
+# median_ PostgreSQL
